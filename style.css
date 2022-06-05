@@ -221,7 +221,7 @@ a:hover{
     height:300px;
     width: 400px;
     margin: 3rem 0 0;
-    background-image: url('./Jose.jpg');
+    background-image: url('./neon3.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -236,7 +236,7 @@ a:hover{
 }
 
 .card-text{ 
-    width: 40%;
+    width: 50%;
     font-family: sans-serif;
     letter-spacing: 1px;
     color: rgb(109, 109, 109);
